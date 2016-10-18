@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Chamada Semana Tecnologia</title>
+		<meta charset="UTF-8">
+	</head>
+	
+	
+	<body>
+	
+	
+		Olá aluno!
+		
+		<br><br><br>
+		
+		<div id="areaAluno">
+			Digite sua matrícula: <br>
+				<input type="text" id="matricula"></input>
+				
+			<br><br>
+			Digite seu nome completo:<br>
+				<input type="text" id="nome"></input>
+				
+			<br><br>
+			Período: <br>
+				<input type="radio" name="periodo" value="tarde" id="periodoTarde" onChange="addComboPalestra(); addComboMateria();">Tarde
+				<input type="radio" name="periodo" value="noite" id="periodoNoite" onChange="addComboPalestra(); addComboMateria();">Noite
+		</div>
+		
+		<br><br><br>
+		
+		<div id="areaPalestra">
+			Qual dia?<br>
+			<select id="comboDia" onChange="addComboPalestra(); addComboMateria();">
+				<option disabled selected value="0">Selecione um dia:</option>
+				<option value="terca">Terça-feira</option>
+				<option value="quarta">Quarta-feira</option>
+				<option value="quinta">Quinta-feira</option>
+				<option value="sexta">Sexta-feira</option>
+				<option value="sabado">Sábado</option>
+			</select>
+			
+			<br><br>
+			Qual palestra?<br>
+			<select multiple id="comboPalestra"></select>
+			
+			<br><br>
+			Matéria do dia:<br>
+			<select multiple id="comboMateria"></select>
+		</div>
+		
+		<br><br><br>
+		
+		<input type="button" value="Fazer Inscricao" onClick="addAlunoPalestra();">
+		
+	</body>
+	<script src="js/palestra.js"></script>
+	<script src="js/aluno.js"></script>
+</html>

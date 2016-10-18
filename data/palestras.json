@@ -1,0 +1,255 @@
+{
+	"palestras": [
+		{
+			"id": 1,
+			"dia": "terca",
+			"periodo": "tarde",
+			"nome": "Oficina Coding Dojo",
+			"local": "auditorio",
+			"horarioInicio": "13h30",
+			"horarioFim": "15h",
+			"responsavel": "Rodrigo Bossini"
+		},
+		{
+			"id": 2,
+			"dia": "terca",
+			"periodo": "tarde",
+			"nome": "Palestra Arduino",
+			"local": "auditorio",
+			"horarioInicio": "14h",
+			"horarioFim": "15h30",
+			"responsavel": "Emerson Moura"
+		},
+		{
+			"id": 3,
+			"dia": "terca",
+			"periodo": "tarde",
+			"nome": "Hands on Arduino",
+			"local": "lab3",
+			"horarioInicio": "16h",
+			"horarioFim": "18h",
+			"responsavel": "Emerson Moura"
+		},
+		{
+			"id": 4,
+			"dia": "terca",
+			"periodo": "noite",
+			"nome": "Palestra Azure",
+			"local": "sala18",
+			"horarioInicio": "20h30",
+			"horarioFim": "21h30",
+			"responsavel": "Renato Gofre"
+		},
+		{
+			"id": 5,
+			"dia": "terca",
+			"periodo": "noite",
+			"nome": "Palestra GULP",
+			"local": "sala17",
+			"horarioInicio": "19h",
+			"horarioFim": "21h",
+			"responsavel": "Marcelo Geremias"
+			
+		},
+		{
+			"id": 6,
+			"dia": "quarta",
+			"periodo": "tarde",
+			"nome": "Curso Swift",
+			"local": "lab3",
+			"horarioInicio": "13h30",
+			"horarioFim": "16h40",
+			"responsavel": "Alexandre Cassiano"
+		},
+		{
+			"id": 7,
+			"dia": "quarta",
+			"periodo": "tarde",
+			"nome": "Palestra Seguranca",
+			"local": "auditorio",
+			"horarioInicio": "16h40",
+			"horarioFim": "17h40",
+			"responsavel": "Sergio Melchiori"
+		},
+		{
+			"id": 8,
+			"dia": "quarta",
+			"periodo": "noite",
+			"nome": "Palestra Seguranca",
+			"local": "auditorio",
+			"horarioInicio": "19h",
+			"horarioFim": "21h",
+			"responsavel": "Sergio Melchiori"
+		},
+		{
+			"id": 9,
+			"dia": "quarta",
+			"periodo": "noite",
+			"nome": "Palesta UX",
+			"local": "sala18",
+			"horarioInicio": "19h",
+			"horarioFim": "21h",
+			"responsavel": "Thuany"
+		},
+		{
+			"id": 10,
+			"dia": "quarta",
+			"periodo": "noite",
+			"nome": "Curso Swift",
+			"local": "lab3",
+			"horarioInicio": "19h",
+			"horarioFim": "22h",
+			"responsavel": "Alexandre Cassiano"
+		},
+		{
+			"id": 11,
+			"dia": "quinta",
+			"periodo": "tarde",
+			"nome": "Curso Swift",
+			"local": "lab3",
+			"horarioInicio": "13h30",
+			"horarioFim": "16h40",
+			"responsavel": "Alexandre Cassiano"
+		},
+		{
+			"id": 12,
+			"dia": "quinta",
+			"periodo": "tarde",
+			"nome": "Oficina MVC e DAO",
+			"local": "lab4",
+			"horarioInicio": "13h30",
+			"horarioFim": "16h",
+			"responsavel": "Edson Almeida"
+		},
+		{
+			"id": 13,
+			"dia": "quinta",
+			"periodo": "noite",
+			"nome": "Oficina MVC e DAO",
+			"local": "lab4",
+			"horarioInicio": "19h",
+			"horarioFim": "22h",
+			"responsavel": "Edson Almeida"
+		},
+		{
+			"id": 14,
+			"dia": "quinta",
+			"periodo": "noite",
+			"nome": "Curso Unity",
+			"local": "lab3",
+			"horarioInicio": "19h30",
+			"horarioFim": "22h30",
+			"responsavel": "Andre Barbosa"
+		},
+		{
+			"id": 15,
+			"dia": "quinta",
+			"periodo": "noite",
+			"nome": "Palestra Arduino",
+			"local": "sala18",
+			"horarioInicio": "19h",
+			"horarioFim": "20h30",
+			"responsavel": "Emerson Moura"
+		},
+		{
+			"id": 16,
+			"dia": "quinta",
+			"periodo": "noite",
+			"nome": "Hands on Arduino",
+			"local": "lab3",
+			"horarioInicio": "20h30",
+			"horarioFim": "22h30",
+			"responsavel": "Emerson Moura"
+		},
+		{
+			"id": 17,
+			"dia": "sexta",
+			"periodo": "tarde",
+			"nome": "Palestra RV e RA",
+			"local": "auditorio",
+			"horarioInicio": "14h30",
+			"horarioFim": "16h",
+			"responsavel": "Cleber Gimenez"
+		},
+		{
+			"id": 18,
+			"dia": "sexta",
+			"periodo": "tarde",
+			"nome": "Curso Blender",
+			"local": "lab4",
+			"horarioInicio": "16h",
+			"horarioFim": "18h",
+			"responsavel": "Hardy Miranda"
+		},
+		{
+			"id": 19,
+			"dia": "sexta",
+			"periodo": "tarde",
+			"nome": "Palestra BI",
+			"local": "auditorio",
+			"horarioInicio": "16h",
+			"horarioFim": "18h",
+			"responsavel": "Marino Catarino"
+		},
+		{
+			"id": 20,
+			"dia": "sexta",
+			"periodo": "noite",
+			"nome": "Palestra RV e RA",
+			"local": "sala18",
+			"horarioInicio": "19h",
+			"horarioFim": "20h30",
+			"responsavel": "Cleber Gimenez"
+		},
+		{
+			"id": 21,
+			"dia": "sexta",
+			"periodo": "noite",
+			"nome": "Palestra Phyladies",
+			"local": "auditorio",
+			"horarioInicio": "19h30",
+			"horarioFim": "21h",
+			"responsavel": "Phyladies"
+		},
+		{
+			"id": 22,
+			"dia": "sexta",
+			"periodo": "noite",
+			"nome": "Palestra BI",
+			"local": "sala18",
+			"horarioInicio": "20h30",
+			"horarioFim": "21h30",
+			"responsavel": "Marino Catarino"
+		},
+		{
+			"id": 23,
+			"dia": "sexta",
+			"periodo": "noite",
+			"nome": "Curso Blender",
+			"local": "lab4",
+			"horarioInicio": "19h",
+			"horarioFim": "21h",
+			"responsavel": "Hardy Miranda"
+		},
+		{
+			"id": 24,
+			"dia": "sabado",
+			"periodo": "noite",
+			"nome": "Oficina Coding Dojo",
+			"local": "auditorio",
+			"horarioInicio": "8h30",
+			"horarioFim": "",
+			"responsavel": "Sergio Bonato"
+		},
+		{
+			"id": 25,
+			"dia": "sabado",
+			"periodo": "noite",
+			"nome": "Palestra Qualidade SW",
+			"local": "auditorio",
+			"horarioInicio": "10h",
+			"horarioFim": "",
+			"responsavel": "Renato Volpe"
+		}
+	]
+}

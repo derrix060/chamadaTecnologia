@@ -1,0 +1,522 @@
+{
+	"materias": [
+		{
+			"id": 1,
+			"dia": "terca",
+			"periodo": "tarde",
+			"nome": "Algoritmo",
+			"professor": "Andreia Machion"
+		},
+		{
+			"id": 2,
+			"dia": "terca",
+			"periodo": "tarde",
+			"nome": "PMI",
+			"professor": "Rita Felix"
+		},
+		{
+			"id": 3,
+			"dia": "terca",
+			"periodo": "tarde",
+			"nome": "Comunicacao",
+			"professor": "Manoel Guaranha"
+		},
+		{
+			"id": 4,
+			"dia": "terca",
+			"periodo": "tarde",
+			"nome": "Banco Dados",
+			"professor": "Rita Rodrigues"
+		},
+		{
+			"id": 5,
+			"dia": "terca",
+			"periodo": "tarde",
+			"nome": "Eng SW 1",
+			"professor": "Ana Paula"
+		},
+		{
+			"id": 6,
+			"dia": "terca",
+			"periodo": "tarde",
+			"nome": "Eng SW 2",
+			"professor": "Rita Rodrigues"
+		},
+		{
+			"id": 7,
+			"dia": "terca",
+			"periodo": "tarde",
+			"nome": "Redes",
+			"professor": "Carlos Aragao"
+		},
+		{
+			"id": 8,
+			"dia": "terca",
+			"periodo": "tarde",
+			"nome": "Eng Sw 3",
+			"professor": "Ana Paula"
+		},
+		{
+			"id": 9,
+			"dia": "terca",
+			"periodo": "tarde",
+			"nome": "Empreendedorismo",
+			"professor": "Marcio Camarotto"
+		},
+		{
+			"id": 10,
+			"dia": "terca",
+			"periodo": "tarde",
+			"nome": "Gestao Projetos",
+			"professor": "Ana Claudia"
+		},
+		{
+			"id": 11,
+			"dia": "terca",
+			"periodo": "tarde",
+			"nome": "Lab Eng Sw",
+			"professor": "Guardado"
+		},
+		{
+			"id": 12,
+			"dia": "quarta",
+			"periodo": "tarde",
+			"nome": "Ingles 1",
+			"professor": "Andreia Braga"
+		},
+		{
+			"id": 13,
+			"dia": "quarta",
+			"periodo": "tarde",
+			"nome": "PMI",
+			"professor": "Rita Felix"
+		},
+		{
+			"id": 14,
+			"dia": "quarta",
+			"periodo": "tarde",
+			"nome": "Etica",
+			"professor": "Marcio Rodrigues"
+		},
+		{
+			"id": 15,
+			"dia": "quarta",
+			"periodo": "tarde",
+			"nome": "PEM",
+			"professor": "Carlos Menezes"
+		},
+		{
+			"id": 16,
+			"dia": "quarta",
+			"periodo": "tarde",
+			"nome": "Ingles 2",
+			"professor": "Kelly"
+		},
+		{
+			"id": 17,
+			"dia": "quarta",
+			"periodo": "tarde",
+			"nome": "LBD",
+			"professor": "Guardado"
+		},
+		{
+			"id": 18,
+			"dia": "quarta",
+			"periodo": "tarde",
+			"nome": "FSI",
+			"professor": "Rita Felix"
+		},
+		{
+			"id": 19,
+			"dia": "quarta",
+			"periodo": "tarde",
+			"nome": "POO Av",
+			"professor": "Alexandre Cassiano"
+		},
+		{
+			"id": 20,
+			"dia": "quarta",
+			"periodo": "tarde",
+			"nome": "Gestao Equipes",
+			"professor": "Erasmo"
+		},
+		{
+			"id": 21,
+			"dia": "quarta",
+			"periodo": "tarde",
+			"nome": "Economia",
+			"professor": "Renato Ribeiro"
+		},
+		{
+			"id": 22,
+			"dia": "quinta",
+			"periodo": "tarde",
+			"nome": "Adm",
+			"professor": "Marcio Magalhaes"
+		},
+		{
+			"id": 23,
+			"dia": "quinta",
+			"periodo": "tarde",
+			"nome": "Matematica Discreta",
+			"professor": "Cachucho"
+		},
+		{
+			"id": 24,
+			"dia": "quinta",
+			"periodo": "tarde",
+			"nome": "SO 1",
+			"professor": "Ana Claudia"
+		},
+		{
+			"id": 25,
+			"dia": "quinta",
+			"periodo": "tarde",
+			"nome": "Hardware",
+			"professor": "Vanderlei"
+		},
+		{
+			"id": 26,
+			"dia": "quinta",
+			"periodo": "tarde",
+			"nome": "POO",
+			"professor": "Andreia Machion"
+		},
+		{
+			"id": 27,
+			"dia": "quinta",
+			"periodo": "tarde",
+			"nome": "Ingles 4",
+			"professor": "Kelly"
+		},
+		{
+			"id": 28,
+			"dia": "quinta",
+			"periodo": "tarde",
+			"nome": "WEB",
+			"professor": "Norton"
+		},
+		{
+			"id": 29,
+			"dia": "quinta",
+			"periodo": "tarde",
+			"nome": "SD",
+			"professor": "Alexandre Cassiano"
+		},
+		{
+			"id": 30,
+			"dia": "quinta",
+			"periodo": "tarde",
+			"nome": "Eng SW 3",
+			"professor": "Ana Paula"
+		},
+		{
+			"id": 31,
+			"dia": "quinta",
+			"periodo": "tarde",
+			"nome": "Testes",
+			"professor": "Edson Saraiva"
+		},
+		{
+			"id": 32,
+			"dia": "quinta",
+			"periodo": "tarde",
+			"nome": "Ingles 6",
+			"professor": "Kelly"
+		},
+		{
+			"id": 33,
+			"dia": "sexta",
+			"periodo": "tarde",
+			"nome": "ED",
+			"professor": "Andreia Machion"
+		},
+		{
+			"id": 34,
+			"dia": "sexta",
+			"periodo": "tarde",
+			"nome": "Estatistica",
+			"professor": "Fernando Cachucho"
+		},
+		{
+			"id": 35,
+			"dia": "sexta",
+			"periodo": "tarde",
+			"nome": "Dispositivos Moveis",
+			"professor": "Cesar"
+		},
+		{
+			"id": 36,
+			"dia": "sexta",
+			"periodo": "tarde",
+			"nome": "Ingles 5",
+			"professor": "Erick"
+		},
+		{
+			"id": 37,
+			"dia": "sexta",
+			"periodo": "tarde",
+			"nome": "Seguranca",
+			"professor": "Carlos Aragao"
+		},
+		{
+			"id": 38,
+			"dia": "sexta",
+			"periodo": "tarde",
+			"nome": "Sociedade e Tecnologia",
+			"professor": "Marcio Rogrigues"
+		},
+		{
+			"id": 39,
+			"dia": "terca",
+			"periodo": "noite",
+			"nome": "PMI",
+			"professor": "Rita Felix"
+		},
+		{
+			"id": 40,
+			"dia": "terca",
+			"periodo": "noite",
+			"nome": "Calculo",
+			"professor": "Roberto Nicolosi"
+		},
+		{
+			"id": 41,
+			"dia": "terca",
+			"periodo": "noite",
+			"nome": "Eng SW 1",
+			"professor": "Guardado"
+		},
+		{
+			"id": 42,
+			"dia": "terca",
+			"periodo": "noite",
+			"nome": "Redes",
+			"professor": "Carlos Aragao"
+		},
+		{
+			"id": 43,
+			"dia": "terca",
+			"periodo": "noite",
+			"nome": "Ingles 4",
+			"professor": "Kelly"
+		},
+		{
+			"id": 44,
+			"dia": "terca",
+			"periodo": "noite",
+			"nome": "Empreendedorismo",
+			"professor": "Marcio Camarotto"
+		},
+		{
+			"id": 45,
+			"dia": "terca",
+			"periodo": "noite",
+			"nome": "Gestao Equipes",
+			"professor": "Erasmo"
+		},
+		{
+			"id": 46,
+			"dia": "terca",
+			"periodo": "noite",
+			"nome": "Gestao Projetos",
+			"professor": "Ana Claudia"
+		},
+		{
+			"id": 47,
+			"dia": "quarta",
+			"periodo": "noite",
+			"nome": "Matematica Discreta",
+			"professor": "Cachucho"
+		},
+		{
+			"id": 48,
+			"dia": "quarta",
+			"periodo": "noite",
+			"nome": "Banco Dados",
+			"professor": "Rita Rodrigues"
+		},
+		{
+			"id": 49,
+			"dia": "quarta",
+			"periodo": "noite",
+			"nome": "FSI",
+			"professor": "Rita Felix"
+		},
+		{
+			"id": 50,
+			"dia": "quarta",
+			"periodo": "noite",
+			"nome": "Ingles 3",
+			"professor": "Kelly"
+		},
+		{
+			"id": 51,
+			"dia": "quarta",
+			"periodo": "noite",
+			"nome": "POO Av",
+			"professor": "Alexandre Cassiano"
+		},
+		{
+			"id": 52,
+			"dia": "quarta",
+			"periodo": "noite",
+			"nome": "Ingles 5",
+			"professor": "Kelly"
+		},
+		{
+			"id": 53,
+			"dia": "quarta",
+			"periodo": "noite",
+			"nome": "Contabilidade",
+			"professor": "Renato Ribeiro"
+		},
+		{
+			"id": 54,
+			"dia": "quarta",
+			"periodo": "noite",
+			"nome": "Lab Eng Sw",
+			"professor": "Guardado"
+		},
+		{
+			"id": 55,
+			"dia": "quinta",
+			"periodo": "noite",
+			"nome": "Adm",
+			"professor": "Marcio Magalhaes"
+		},
+		{
+			"id": 56,
+			"dia": "quinta",
+			"periodo": "noite",
+			"nome": "SO 1",
+			"professor": "Ana Claudia"
+		},
+		{
+			"id": 57,
+			"dia": "quinta",
+			"periodo": "noite",
+			"nome": "POO",
+			"professor": "Andreia Machion"
+		},
+		{
+			"id": 58,
+			"dia": "quinta",
+			"periodo": "noite",
+			"nome": "Estatistica",
+			"professor": "Roberto Nicolosi"
+		},
+		{
+			"id": 59,
+			"dia": "quinta",
+			"periodo": "noite",
+			"nome": "SD",
+			"professor": "Sergio Rota"
+		},
+		{
+			"id": 60,
+			"dia": "quinta",
+			"periodo": "noite",
+			"nome": "Testes",
+			"professor": "Edson Saraiva"
+		},
+		{
+			"id": 61,
+			"dia": "sexta",
+			"periodo": "noite",
+			"nome": "Etica",
+			"professor": "Marcio Rodrigues"
+		},
+		{
+			"id": 62,
+			"dia": "sexta",
+			"periodo": "noite",
+			"nome": "Comunicacao",
+			"professor": "Manoel Guaranha"
+		},
+		{
+			"id": 63,
+			"dia": "sexta",
+			"periodo": "noite",
+			"nome": "ED",
+			"professor": "Andreia Machion"
+		},
+		{
+			"id": 64,
+			"dia": "sexta",
+			"periodo": "noite",
+			"nome": "PLIN",
+			"professor": "Carlos Aragao"
+		},
+		{
+			"id": 65,
+			"dia": "sexta",
+			"periodo": "noite",
+			"nome": "Dispositivos Moveis",
+			"professor": "Cesar"
+		},
+		{
+			"id": 66,
+			"dia": "sexta",
+			"periodo": "noite",
+			"nome": "Economia",
+			"professor": "Helio Rubens"
+		},
+		{
+			"id": 67,
+			"dia": "sexta",
+			"periodo": "noite",
+			"nome": "Sociedade e Tecnologia",
+			"professor": "Marcio Rodrigues"
+		},
+		{
+			"id": 68,
+			"dia": "sexta",
+			"periodo": "noite",
+			"nome": "Ingles 1",
+			"professor": "Kelly"
+		},
+		{
+			"id": 69,
+			"dia": "sabado",
+			"periodo": "noite",
+			"nome": "AOC",
+			"professor": "Vanderlei"
+		},
+		{
+			"id": 70,
+			"dia": "sabado",
+			"periodo": "noite",
+			"nome": "PEM",
+			"professor": "Carlos Menezes"
+		},
+		{
+			"id": 71,
+			"dia": "sabado",
+			"periodo": "noite",
+			"nome": "SO 2",
+			"professor": "Nicolas"
+		},
+		{
+			"id": 72,
+			"dia": "sabado",
+			"periodo": "noite",
+			"nome": "WEB",
+			"professor": "Norton"
+		},
+		{
+			"id": 73,
+			"dia": "sabado",
+			"periodo": "noite",
+			"nome": "Eng Sw 3",
+			"professor": "Ana Paula"
+		},
+		{
+			"id": 74,
+			"dia": "sabado",
+			"periodo": "noite",
+			"nome": "Gestao TI",
+			"professor": "Leis"
+		}
+	]
+}
